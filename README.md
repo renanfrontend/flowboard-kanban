@@ -1,5 +1,7 @@
 # Flowboard
 
+🌐 **[Abrir demonstração / Live demo](https://renan-flowboard-kanban.renan-gabba.chatgpt.site)**
+
 Do plano à entrega. Kanban com prioridades, busca e movimentação de tarefas persistidas localmente.
 
 Projeto autoral demonstrativo preparado para o portfólio de **Renan Augusto dos Santos**. Não possui backend, autenticação ou dados de produção.
