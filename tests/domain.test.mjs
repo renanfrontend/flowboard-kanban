@@ -1,0 +1,1 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import * as d from '../src/domain.js';test('Regras de domínio e casos de borda',()=>{const tasks=[{id:'1',status:0}];assert.equal(d.moveTask(tasks,'1',2)[0].status,2);assert.equal(tasks[0].status,0);assert.equal(d.moveTask(tasks,'1',9),tasks);});
